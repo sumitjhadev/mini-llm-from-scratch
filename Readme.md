@@ -455,7 +455,7 @@ Building systems, studying machine learning, and exploring how modern AI models 
 
 <p align="center">
 
-### ⭐ If you find this project interesting, consider giving it a star!
+### ⭐ If you find this project interesting, consider giving it a star!!
 
 **Built from scratch. Trained from scratch. Understood from the inside out.**
 
