@@ -449,7 +449,7 @@ every stage provides a concrete understanding of how a Transformer-based languag
 
 **Computer Science & Engineering • AI/ML Enthusiast • Machine Learning Engineer in the Making**
 
-Building systems, studying machine learning, and exploring how modern AI models work — **one layer at a time.**
+Building systems, studying machine learning, and exploring how modern AI models work **one layer at a time.**
 
 ---
 
